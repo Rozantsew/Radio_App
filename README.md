@@ -1,3 +1,3 @@
 # Radio_App
 
-I will keep you posting whith the news about this project. Se you soon!
+I will keep you posted with the news about this project. See you soon!
