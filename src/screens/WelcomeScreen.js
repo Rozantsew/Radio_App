@@ -9,7 +9,7 @@ function WelcomeScreen(props) {
       <SafeAreaView style={styles.contentWrapper}>
         <Image resizeMode="contain" source={require("../assets/images/Hero-icon.png")} style={styles.heroImage} />
         <Text style={styles.mainHeader}>
-          Radio którę porawi twój humor, coś dla ciebie!
+          Radio którę porawi twój humor, coś dla cziebie!
         </Text>
         <Text style={styles.headerDescription}>
           What is Lorem Ipsum?

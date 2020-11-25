@@ -1,0 +1,6 @@
+module Pods_radioapp {
+  umbrella header "Pods-radioapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
